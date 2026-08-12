@@ -1,0 +1,8 @@
+FOREX SIGNAL AI RELEASE CHECKLIST
+[ ] Masukkan API key Twelve Data
+[ ] Test EUR/USD 1min
+[ ] Test GBP/USD 5min
+[ ] Test BUY/SELL/WAIT
+[ ] Test auto refresh
+[ ] Generate signed release APK
+[ ] Install APK pada Android fisik

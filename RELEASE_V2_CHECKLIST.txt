@@ -1,0 +1,11 @@
+FOREX SIGNAL AI V2
+[ ] Add Twelve Data API key
+[ ] Verify WebSocket plan/access
+[ ] Test REST candle bootstrap
+[ ] Test live quote updates
+[ ] Test 1M candle rollover
+[ ] Test BUY/SELL/WAIT
+[ ] Test expiry result
+[ ] Test reconnect
+[ ] Build signed release APK
+[ ] Install on Android device
